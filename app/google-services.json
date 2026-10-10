@@ -1,0 +1,48 @@
+{
+    "project_info": {
+        "project_number": "799436916027",
+        "project_id": "bijhar-azadaari",
+        "storage_bucket": "bijhar-azadaari.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:799436916027:android:f9ed29a42be4548c25231e",
+                "android_client_info": {
+                    "package_name": "com.azadaaribijhar.app"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDX5cXOv8eHC3Mb-sZr47ZNEnsF77KDync"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:799436916027:android:38e69fa8d55873f225231e",
+                "android_client_info": {
+                    "package_name": "com.bijhar.azadaari"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDX5cXOv8eHC3Mb-sZr47ZNEnsF77KDync"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
